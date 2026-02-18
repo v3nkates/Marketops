@@ -1,0 +1,12 @@
+{
+  "id" : "asset_001",
+  "name" : "Bitcoin",
+  "type" : "commodity",
+  "demand" : 100.0,
+  "currentPrice" : 50000.0,
+  "history" : [ {
+    "price" : 50000.0,
+    "demand" : 100.0,
+    "timestamp" : 1771341922867
+  } ]
+}
