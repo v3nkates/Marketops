@@ -1,6 +1,6 @@
-# Marketops
+# MarketOps
 
-Marketops is an open market research operations platform for tracking and managing market assets and objects, executing ETL pipelines, automation, monitoring, simulation and prediction. It uses a hybrid Python/Java architecture to handle cataloging of assets, full data lineage, permissioned control, and easy extension for ETL/data science pipelines.
+MarketOps is an open market research operations platform for tracking and managing market assets and objects, executing ETL pipelines, automation, monitoring, simulation and prediction. It uses a hybrid Python/Java architecture to handle cataloging of assets, full data lineage, permissioned control, and easy extension for ETL/data science pipelines.
 
 ---
 
